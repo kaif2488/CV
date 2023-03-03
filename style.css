@@ -1,0 +1,25 @@
+body {
+    background: url('backgr.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  body {
+    color: black;
+  }
+  
+/* unvisited link */
+a {
+    color: blue;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: purple;
+  }
+  
+  /* link on hover */
+  a:hover {
+    color: red;
+  }
+  
+    
+  
